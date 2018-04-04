@@ -9,6 +9,7 @@
                 "*://*/*"
             ],
             "js": [
+                "jquery-3.3.1.min.js",
                 "custom.js",
                 "replace.js"
             ],

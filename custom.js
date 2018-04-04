@@ -1,4 +1,5 @@
 var custom = {
 	"math": "MATH",
-	"winter": "WINTER"
+	"winter": "WINTER",
+	"angel li": "Agnel Li"
 };
